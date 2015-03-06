@@ -1,0 +1,54 @@
+(dp0
+VMetal 101 - How can I learn to appreciate heavy metal music?
+p1
+V
+p2
+sVThe Heavy Metal F.A.Q.
+p3
+g2
+sVHeavy Metal Frequently Asked Questions (FAQ)
+p4
+g2
+sVInternational Day of Slayer 2014
+p5
+g2
+sVMortem/Perversion tour
+p6
+g2
+sVTerrorizer - \u201cHordes of Zombies\u201d
+p7
+g2
+sVDesultory - In a Cage [melodeath, cross between Opeth and Amon Amarth]
+p8
+g2
+sVNWN = FMP
+p9
+g2
+sVSlayer Goes To Church
+p10
+g2
+sVMy Power Metal play list on Groove Shark.  Share Yours!
+p11
+g2
+sVOSDM
+p12
+g2
+sVThe Chasm \u201cProcreation of the Inner Temple\u201d re-released 
+p13
+g2
+sVSlayer Performs In Peru For The First Time (fan-filmed footage of entire concert)
+p14
+g2
+sVThe Poetic Eddas (all black metal lyrics come from this)
+p15
+g2
+sVDeceased \u2013 Luck of the Corpse re-issued/re-released
+p16
+g2
+sVHeavy Metal F.A.Q.
+p17
+g2
+sVInterview with Joey Belladonna (Anthrax)
+p18
+g2
+s.

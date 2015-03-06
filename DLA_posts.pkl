@@ -1,0 +1,45 @@
+(dp0
+VAbsu
+p1
+V
+p2
+sVHeavy Metal F.A.Q.
+p3
+g2
+sV100% Metal Forum: death metal, black metal, grindcore, classical/baroque, ambient, heavy metal, doom metal, speed metal and thrash discussion.
+p4
+g2
+sVAgruss \u2013 Morok
+p5
+g2
+sVDeath Metal Underground (DMU)
+p6
+g2
+sVFight Hate Urgent: we need reasons high intelligence is \u000aequal in value to low intelligence
+p7
+g2
+sVAbomination
+p8
+g2
+sVHistory of Heavy Metal Music
+p9
+g2
+sVAbigor
+p10
+g2
+sVAbsurd
+p11
+g2
+sVAudiofile Search
+p12
+g2
+sVDark Legions Archive
+p13
+g2
+sVQueensrÿche - Operation: Mindcrime
+p14
+g2
+sVBlaspherian - Infernal Warriors of Death
+p15
+g2
+s.

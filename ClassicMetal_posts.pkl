@@ -1,0 +1,3009 @@
+(dp0
+VNecromancy (SWE) - Beyond the Funeral of Mine [BM, '94]
+p1
+V
+p2
+sVIntruder - "Mr Death" (TM, '89)
+p3
+g2
+sVTrance - "Break the Chains" (HM, '85) - [3:03]
+p4
+g2
+sVMythra - "Death and Destiny" (NWOBHM, '79)
+p5
+g2
+sVMutilated - "Sorcery" (DM, '91)
+p6
+g2
+sVBitches Sin - "Strangers on the Shore" (NWOBHM, '82)
+p7
+g2
+sVHallows Eve - Metal Merchants
+p8
+g2
+sVCrimson Glory - Painted Skies
+p9
+g2
+sVBlack Hole - "Troubled Night" (doom, '84)
+p10
+g2
+sVShok Paris - "Caged Tiger" (USPM, '84)
+p11
+g2
+sVManowar - Fighting the World [HM/PM 1987]
+p12
+g2
+sVUrchin - Black Leather Fantasy [NWOBHM, '77]
+p13
+g2
+sVVictim - "Power Hungry" (HM, '83)
+p14
+g2
+sVHammeron - "Sands of Fyre" (USPM, '86)
+p15
+g2
+sVValhalla - "Looking For the Light" (USPM, '84)
+p16
+g2
+sVG.I.S.M. - Nuclear Armed Hogs (HM/HC, '84)
+p17
+g2
+sVVoivod - Voivod (SM/TM, '84)
+p18
+g2
+sVOriginal Sin - Bitches from Hell (USPM/SM, '86)
+p19
+g2
+sVRitual - Come To The Ritual (NWOBHM 1983)
+p20
+g2
+sVBolt Thrower - "Psychological Warfare" (DM, '88 - Peel Session w/original singer Alan West)
+p21
+g2
+sVLord Crucifier - "The Scarecrows" (TM, '88)
+p22
+g2
+sVAgressor - "The Unknown Spell" (DM/TM, '90)
+p23
+g2
+sVGlacier - "Speak No Evil" (USPM, '85)
+p24
+g2
+sVLe Griffe - "Breaking Strain" (NWOBHM, '84)
+p25
+g2
+sVMotörhead - (We Are) The Road Crew [HM, '80]
+p26
+g2
+sVReactor - "Witches on Fire" (SM, '91)
+p27
+g2
+sVArmored Saint - Reign of Fire (HM '91)
+p28
+g2
+sVKraken (COL) - "Todo Hombre es una Historia" (HM, '87)
+p29
+g2
+sVEquimanthorn - Under the Seasons [DM/BM, '93]
+p30
+g2
+sVLe Mans - On The Streets (US HM 1983)
+p31
+g2
+sVSabbat (JPN) - "Deathtemptation" (BM/TM, '91)
+p32
+g2
+sVHexx - "Beware the Darkness" (USPM, '84)
+p33
+g2
+sVDead End - "Phantom Nation" (HM, '87)
+p34
+g2
+sVR'lyeh - "Cthulhu Dead Dream" (DM, '92)
+p35
+g2
+sVCemetarium - Fire, Walk With Me [SM/TM, '91]
+p36
+g2
+sVConfessor - "Eve of Salvation" (doom/prog, '91)
+p37
+g2
+sVWasted - "Evil" (HM, '84)
+p38
+g2
+sVCloven Hoof - "Return of the Passover" (NWOBHM, '84)
+p39
+g2
+sVEnergetic Krusher - "The Blades" (TM, '89)
+p40
+g2
+sVDeathamin - Deathamin (Thrash, '92)
+p41
+g2
+sVSteel Angel - "Judas (Angel or Demon)" (PM, '85)
+p42
+g2
+sVNifelheim - "Black Curse" (BM, '94)
+p43
+g2
+sVMedieval Steel - Medieval Steel (USPM 1984)
+p44
+g2
+sVAtomkraft - "Total Metal" (NWOBHM, '85)
+p45
+g2
+sVManticore - Mask (DM '94)
+p46
+g2
+sVVampyr - "Mercy Killing" (SM, '85)
+p47
+g2
+sVChrome Molly - Set Me Free [HM - 1988]
+p48
+g2
+sVNot Fragile - "With All My Might" (SM, '88)
+p49
+g2
+sVThin Lizzy - "Emerald" (HM '76)
+p50
+g2
+sVSorcery - "Schizoid" (HM '78)
+p51
+g2
+sVMindless Sinner - Live And Die (HM '86)
+p52
+g2
+sVScarab - "Horsemen of the Apocalypse" (NWOBHM, '85)
+p53
+g2
+sVNosferatu - Daughter of Death [DM, '91]
+p54
+g2
+sVDétente - Holy War (TM, '86)
+p55
+g2
+sVDiamond Head - The Prince (NWOBHM 1980)
+p56
+g2
+sVSword - "Evil Spell" (HM, '86)
+p57
+g2
+sVPatriarch - "Shadowland" (TM/PM, '90)
+p58
+g2
+sVTygers of Pan Tang - Hellbound (NWOBHM, '81)
+p59
+g2
+sV220 Volt - "The Tower" (HM, '85)
+p60
+g2
+sVAssault - Survival in the Street (HM/PM, '87)
+p61
+g2
+sVUniverse - "Stories From the Old Days" (HM, '85)
+p62
+g2
+sVCutty Sark - "Burning to Ashes" (HM, '84)
+p63
+g2
+sVSamurai - "Attack" (NWOBHM, '84)
+p64
+g2
+sVSyar - "Find the Angel" (NWOBHM, '84)
+p65
+g2
+sVSteel Fury - "No More" (TM, '89)
+p66
+g2
+sVAggression - "Demolition" (TM, '87)
+p67
+g2
+sVStormtrooper - Steamroller [HM - 1985]
+p68
+g2
+sVSaber Tiger - "Crush and Dush" (HM, '87)
+p69
+g2
+sVMekong Delta - "Kill the Enemy" (TM, '87)
+p70
+g2
+sVHelloween - Eagle Fly Free (PM '88)
+p71
+g2
+sVDead Head - "Desolated By the Shining" (DM/TM, '91)
+p72
+g2
+sVLynx - "Nothing In Return" (HM, '85)
+p73
+g2
+sVStonehenge - Wings of Steel (HM, '86)
+p74
+g2
+sVHigh Power - Casse Toi (HM, '83)
+p75
+g2
+sVHittman - "Caught in the Crossfire" (USPM, '88)
+p76
+g2
+sVTank - "The Man Who Never Was" (NWOBHM, '83)
+p77
+g2
+sVWarlord - Child of the Damned (HM/PM, '84)
+p78
+g2
+sVVenin - "Passe Temps" (Traditional, '86)
+p79
+g2
+sVExcalibur (UK) - "Haunted By the Shadows" (NWOBHM, '85)
+p80
+g2
+sVRotor - "Tépj Szét Minden Láncot" (SM, '91)
+p81
+g2
+sVMedusa - "Lady Killer" (NWOBHM, '81 - pre-Grim Reaper)
+p82
+g2
+sVHellsaw - Exorcism Shall Fail (GC, '86)
+p83
+g2
+sVDoro - I Rule the Ruins (Live in Germany 1993)
+p84
+g2
+sVMerciless - Behind the Black Door (DM/TM, 1987)
+p85
+g2
+sVAmorphis - Black Winter Day (MDM '94)
+p86
+g2
+sVJewel - "Blacque Moon" (HM, '88)
+p87
+g2
+sVCandlemass - Solitude [Doom 86]
+p88
+g2
+sVSortilege - "D'ailleurs" (HM, '84)
+p89
+g2
+sVFull Moon - "Time Machine" (HM, '89)
+p90
+g2
+sVCeltic Frost - Inevitable Factor (TM/SM, '87)
+p91
+g2
+sVCobra - "Warriors of the Dead" (HM, '85)
+p92
+g2
+sVL.A. - "Gates to the Sky" (HM, '85)
+p93
+g2
+sVBULLDOZER-CUT THROATH(Black/Thrash/Speed Metal 1985)
+p94
+g2
+sVTrident - "Destiny" (NWOBHM, '84)
+p95
+g2
+sVNemesis - "The King is Dead" (doom, '84)
+p96
+g2
+sVThe Zoot - The Freak (Proto-metal, '71)
+p97
+g2
+sVJaguar - Dutch Connection
+p98
+g2
+sVMasque - "The Dead of Night" (HM, '88)
+p99
+g2
+sVTruffle - "God of War" (NWOBHM, '83)
+p100
+g2
+sVRatt - Wanted Man (USHM '84)
+p101
+g2
+sVMad Max - "Run For the Night" (HM, '85)
+p102
+g2
+sVJJ's Powerhouse - "Running For the Line" (NWOBHM, '83)
+p103
+g2
+sVThe Obsessed - "Ground Out" (doom, '85/'90)
+p104
+g2
+sVTarkus - Hunter [PM/SM, '89]
+p105
+g2
+sVNorden Light - "No Escape" (HM, '87)
+p106
+g2
+sVSacred Reich - "Ignorance" (TM, '87)
+p107
+g2
+sVMetal Virgins - Animal People [SM/TM, '84]
+p108
+g2
+sVOverkill - Rotten to the Core (Thrash with prominent clean vocals, 1985) - [5:01]
+p109
+g2
+sVVitriol - "Animal Revolution" (HM,86)
+p110
+g2
+sVMadd Hatter - "My Money" (HM, '84)
+p111
+g2
+sVSparta - "Tonight" (NWOBHM, '81)
+p112
+g2
+sVDragonfly - "Spacebound" (NWOBHM, '80)
+p113
+g2
+sVTyrus - "Bubonic Plague" (TM, '86 - pre-Hobbs' Angel of Death)
+p114
+g2
+sVKratos - Save Their Souls (SP, '85)
+p115
+g2
+sVParadox - Paradox (German Speed Metal, 1987)
+p116
+g2
+sVMuro - "Telón de Acero" (SM, '88)
+p117
+g2
+sVConfessor - "Words of Praise" [Live] (DM, '88)
+p118
+g2
+sVIced Earth - Funeral (PM, '90)
+p119
+g2
+sVGrinder - Obsession [TM/SM, '88]
+p120
+g2
+sVBible Black - Bible Black (HM, '85)
+p121
+g2
+sVRandy Uchida Group - "Deathly Fighter" (HM, '84)
+p122
+g2
+sVTNT - "Deadly Metal" (HM, '84)
+p123
+g2
+sVLacrimatorium - Black Ocean Is My Grave [Doom/black/death, '95]
+p124
+g2
+sVVault - Terror (HM, '83)
+p125
+g2
+sVHigh Power - "Rebelle" (HM, '86)
+p126
+g2
+sVVoivod - "Ravenous Medicine" (TM, '87)
+p127
+g2
+sVTank - Turn Your Head Around [1982 NWOBHM]
+p128
+g2
+sVVault - "Run or Die" (HM, '83)
+p129
+g2
+sVTraitors Gate - Love after Midnight
+p130
+g2
+sVThe Chasm - "Conqueror of the Morningstar" (DM, '94)
+p131
+g2
+sVWarlock - "Burning The Witches" (HM, '84)
+p132
+g2
+sVChyld - "Lite the Nite" (HM, '86)
+p133
+g2
+sVArachnid - Beyond Torment [TM, '92]
+p134
+g2
+sVBlack Widow - "Against the Wall" (SM, '84)
+p135
+g2
+sVBadger Bell Band (Noizegate) - Nothing Left [NWOBHM, Blues, awesomeness]
+p136
+g2
+sVSorcery - Stunt Rocker (Stunt Rocker OST 1978)
+p137
+g2
+sVMoby Dick - Keresztes Vitéz (Hungarian Heavy Metal, '90)
+p138
+g2
+sVRiff Raff - "Dark Side" (HM, '83)
+p139
+g2
+sVDark Age - Tales of Medusa (USPM, '84)
+p140
+g2
+sVEgzekuthor - Hateful Subconsciousness (TM '90)
+p141
+g2
+sVOverdrive - "Fighting Man" (HM, '83)
+p142
+g2
+sVTaist of Iron - "The Gates" (HM, '84)
+p143
+g2
+sVLeviathan - The Calling (PM, '94)
+p144
+g2
+sVOliver Magnum - "The Last Prophet" (USPM, '89)
+p145
+g2
+sVRainbow - Kill The King
+p146
+g2
+sVApollo Ra - "Bane of the Black Sword" (USPM, '89)
+p147
+g2
+sVExxplorer - "Run For Tomorrow" (USPM, '85)
+p148
+g2
+sVSniper - "Open the Attack" (HM, '84)
+p149
+g2
+sVMartyr - "Black Sun" (PM/SM, '84)
+p150
+g2
+sVBathory - Resolution Greed (bootleg)
+p151
+g2
+sVOstrogoth - Vlad Strigoi (HM/PM, '87)
+p152
+g2
+sVWarrant (GER) - "Torture in the Tower" (SM, '85)
+p153
+g2
+sVIncubus (FL) - "Engulfed in Unspeakable Horrors" (DM, '87)
+p154
+g2
+sVDresden - "Starvation" (SM, '86)
+p155
+g2
+sVSaxon - Wheels of Steel (NWOBHM '80)
+p156
+g2
+sVSantuário - "Espartaco, Gladiador Rei" (HM, '85)
+p157
+g2
+sVDivine Rite - "Aggressor" (HM, '85)
+p158
+g2
+sVTokyo Blade - Warrior of The Rising Sun [NWOBHM 1984]
+p159
+g2
+sVSABBAT-BEWITCH\u005cSATAN BLESS YOU(1991 japan BM)
+p160
+g2
+sVElixir - "Chariot of the Gods" (HM, '86)
+p161
+g2
+sVPluto - Down and out (BM '71)
+p162
+g2
+sVMetal Messiah - "Kiss of Nosferatu" (TM, '89)
+p163
+g2
+sVHexenhaus - At the Edge of Eternity (TM, '90)
+p164
+g2
+sVButcher - "Try Out" (TM, '93)
+p165
+g2
+sVSacrifice (SWI) - "Clear Out" (HM, '85)
+p166
+g2
+sVT.T. Quick - "Go For the Throat" (HM, '84)
+p167
+g2
+sVSacred Oath - The End (PM/SM, '86)
+p168
+g2
+sVH-Bomb - Gwendoline (HM/PM, '84)
+p169
+g2
+sVSepultura - Funeral Rites (BM/DM/SM, '86)
+p170
+g2
+sVBodine - "Wild Fire Queen" (HM, '82)
+p171
+g2
+sVDamien - Big Tits (We Know) (HM Uk/Ger 1984)
+p172
+g2
+sVBelsemar - Slay the Believers (BM, 1995)
+p173
+g2
+sVSacrilege (ITA) - "Woodoo Ritual" (doom, '87)
+p174
+g2
+sVMania - "Wizard of the Lost Kingdom" (SM, '88)
+p175
+g2
+sVTank - Struck By Lightning
+p176
+g2
+sVLord Ryur - "Pact With a Sinner" (HM, '86)
+p177
+g2
+sVSamain - "The Metal Breaks My Senses" (HM, '84)
+p178
+g2
+sVDed Engine - "Scream" (HM, '85)
+p179
+g2
+sVDebustrol - "Apokalypsa" (TM, '88)
+p180
+g2
+sVWitchfinder General - Burning a Sinner [Proto Doom]
+p181
+g2
+sVArkangel - Vagón de la Muerte (HM '81)
+p182
+g2
+sVAvenger - "Under The Hammer" (NWOBHM, '85)
+p183
+g2
+sVEF Band - "Last Laugh is On You" (HM, '81)
+p184
+g2
+sVVixen (FRA) - "Jerusalem" (HM, '85)
+p185
+g2
+sVFingernails - "Heavy Metal Forces" (SM/TM, '88)
+p186
+g2
+sVCrystal Knight - Fire &amp; Flame (HM, '85)
+p187
+g2
+sVStranger - "The Bell" (SM, '85)
+p188
+g2
+sVDeranged - Eminence of Terror (TM '89)
+p189
+g2
+sVWhite Spirit - "Midnight Chaser" (NWOBHM, '80)
+p190
+g2
+sVOssian - "Acélszív" (HM, '88)
+p191
+g2
+sVSabotage - Victim Of The World (Italy 1986)
+p192
+g2
+sVIndestroy - U.S.S.A. (TM, 87)
+p193
+g2
+sVRuffians - "Fight For Your Life" (HM, '85)
+p194
+g2
+sVThou Art Lord - "The Era of Satan Rising" (BM/DM, '94)
+p195
+g2
+sVSodom - Volcanic Slut (Thrash, 86')
+p196
+g2
+sVDAI - Attack of Black Bears (DM/TM, '93)
+p197
+g2
+sVSinister - War Song (HM, '89)
+p198
+g2
+sVCyperus - Judgment Day (USPM, '86)
+p199
+g2
+sVOz - Gambler
+p200
+g2
+sVPale Unearthed - Azure Skies (Entombed Black) [DM, '93]
+p201
+g2
+sV\u0410\u0440\u0438\u044f (Aria) - "Serving Evil Force" (HM, '87)
+p202
+g2
+sVThanatos - "Perpetual Misery" (DM/TM, '92)
+p203
+g2
+sVAvenger (GER) - "Faster Than Hell" (SM, '85 - pre-Rage)
+p204
+g2
+sVWarhead - "Attack of the Shark" (SM, '84)
+p205
+g2
+sVEpidemic (GRE) - "Artificial Peace" (TM, '91)
+p206
+g2
+sVSavage Grace - "Die By the Blade" (USPM, '83)
+p207
+g2
+sVAnnihilator - Kraf Dinner [SM/TM, '90]
+p208
+g2
+sVTenebres - "Filles du Calvaire" (HM, '85)
+p209
+g2
+sVTaurus - "Massacre" (TM, '86)
+p210
+g2
+sVTraitor - Have You Ever 1985
+p211
+g2
+sVArmed Forces - "Die Hard" (USPM, '91)
+p212
+g2
+sVWar Machine - "Dangerous" (HM, '86)
+p213
+g2
+sVTörr - Kladivo na \u010darod\u011bjnice [BM/TM, '89]
+p214
+g2
+sVMaltese Falcon - "Rebellion" (HM, '84)
+p215
+g2
+sVTyrant (GER) - "Killer Cat" (HM, '84)
+p216
+g2
+sVIntrinsic Announces Launch of Indiegogo Crowd Funding Campaign
+p217
+VIntrinsic, a US power/speed metal band, is excited to announce the launch of our IndieGoGo crowd funding campaign! We're calling all fans to help us bring the album "Nails" to life. We've signed a contract with Divebomb Records to issue the unreleased album from 1991, "Nails" in 2015, but need to get it mixed at the recording studio first. Be a part of this album by funding our campaign and helping us get the word out. We have lots of cool perks/rewards for contributing like signed CD's, limited edition T-shirts and meet and greets with the band. https://www.indiegogo.com/projects/nails-the-best-metal-album-you-ve-never-heard/x/9708598
+p218
+sVSatan Jokers - "Les Fils du Metal" (HM, '83)
+p219
+g2
+sVRazor - "Evil Invaders" (SM, '85)
+p220
+g2
+sVRiot - Bloodstreets [1988 USPM]
+p221
+g2
+sVSeikima-II - "Jack the Ripper" (HM, '86)
+p222
+g2
+sVStraw Dogs - Skull Garnish [HM, '86]
+p223
+g2
+sVDeathwish - "Visions of Insanity" (thrash, '89)
+p224
+g2
+sVCrysys - Hard As Rock (HM '81)
+p225
+g2
+sVBlasphème - "Vivre Libre" (HM, '85)
+p226
+g2
+sVHolocross - "Manslaughter" (TM, '88)
+p227
+g2
+sVDAI - Squir Akyz [DM, '93]
+p228
+g2
+sVGrim Reaper - "Wrath of the Ripper" (HM '84)
+p229
+g2
+sVZone Zero - "Evil Dream" (HM, '82)
+p230
+g2
+sVFuture Tense - "Evil Attack" (HM, '84)
+p231
+g2
+sVGogmagog - "I Will Be There" (NWOBHM, '85 - Paul Di'Anno/Clive Burr/Pete Willis/Janick Gers)
+p232
+g2
+sVDammaj - "March of the Gladiators" (USPM, '86)
+p233
+g2
+sVScavenger - "No Return" (HM, '85)
+p234
+g2
+sVSye - "Do or Die" (HM, '88)
+p235
+g2
+sVTytan - "Blind Men and Fools" (NWOBHM, '85)
+p236
+g2
+sVBattleaxe - "Power From the Universe" (NWOBHM, '84)
+p237
+g2
+sVCerebus - "Too Late to Pray" (USPM, '86)
+p238
+g2
+sVMorbid Termination - Metal Child (SM, '86)
+p239
+g2
+sVManowar - "Secret of Steel" (USPM, '85 rehearsal)
+p240
+g2
+sVAnger - "Strike Back" (HM, '87)
+p241
+g2
+sVSabbat - "For Those Who Died" (thrash, '88)
+p242
+g2
+sVVulcain - Le Fils de Lucifer
+p243
+g2
+sVHels - "Birth" (HM, '85)
+p244
+g2
+sVArmored Saint - Can U Deliver
+p245
+g2
+sVDemon Eyes - "L'Invincible Force de la Mort" (HM, '84)
+p246
+g2
+sVArmoured Angel - "Iron Legions" (HM, '85)
+p247
+g2
+sVBlack Sabbath - Headless Cross (1989, HM)
+p248
+g2
+sVChastain - "The Voice of the Cult" (USPM, '88)
+p249
+g2
+sVBleak House - "Chase the Wind" (NWOBHM, '82)
+p250
+g2
+sVDiamond Head - Am I Evil [NWOBHM 1980]
+p251
+g2
+sVDeathrow - "Slaughtered" (TM, '86)
+p252
+g2
+sVTyrant (UK) - "Eyes of a Stranger" (NWOBHM, '83)
+p253
+g2
+sVAssailant - "Power of the Hunter" (USPM, '85)
+p254
+g2
+sVLeader - "Shoot to Kill" (SM. '88)
+p255
+g2
+sVDestiny - "Medieval Rendezvous" (HM, '91)
+p256
+g2
+sVReverend - Another Form of Greed (TM '90)
+p257
+g2
+sVShadowcast - Prelude (USPM, '90)
+p258
+g2
+sVMillennium - "The Devil Rides Out" (NWOBHM, '84)
+p259
+g2
+sVCirith Ungol - Fire (HM, '91)
+p260
+g2
+sVMonolit - You Must Die (HM '89)
+p261
+g2
+sVAncient Rites - "Longing For the Ancient Kingdom" (BM, '92)
+p262
+g2
+sVDio - "Last In Line" (HM, '84)
+p263
+g2
+sVXcel - "Last Ride of Ichabod Crane" (USPM, '86)
+p264
+g2
+sVM.A.R.S. - "Nations on Fire" (USPM, '86)
+p265
+g2
+sVRuthless - "Metal Without Mercy" (USPM, '84)
+p266
+g2
+sVWeapon - "Turbo Charged" (HM, '88)
+p267
+g2
+sVDum Dum Bullet - "Burning Power" (SM, '86)
+p268
+g2
+sVAirwolf - Legions of Doom (HM/SM, '88)
+p269
+g2
+sVMalicious Onslaught - Blademare [DM/TM '94]
+p270
+g2
+sVEpsylon - "Rock'n Roll" (HM, '85)
+p271
+g2
+sVViolent Force - "Sign of Evil" (TM, '87)
+p272
+g2
+sVFatal Violence - Faces Of Death [TM '85]
+p273
+g2
+sVPhlegethon - Female Sabbath [DM/TM, '90]
+p274
+g2
+sVZemial - "Sleeping Under Tartatus" (BM, '92)
+p275
+g2
+sVStigma (Grc) - Some Lines Shouldn't Been Crossed [DM, '93]
+p276
+g2
+sVAcid - "Black Car" (SM '83)
+p277
+g2
+sVNasty Savage - "The Morgue" (TM/SM, '85)
+p278
+g2
+sVX-Caliber - "The Sword" (USPM, '86)
+p279
+g2
+sVTerminator - "Reality" (TM, '91)
+p280
+g2
+sVDominus - Sadistic Exploration [DM, 1991]
+p281
+g2
+sVDanzig - Long Way Back From Hell [90]
+p282
+g2
+sVMortox - "Born to Break Control" (HM, '87)
+p283
+g2
+sVThe Hand of Doom - "There Ain't No Running Away" (HM, '79)
+p284
+g2
+sVTalon - "Overlords Supreme" (HM, '84)
+p285
+g2
+sVNagazaki (Swe) - You Can Be
+p286
+g2
+sVBrat - "Throw Away the Key" (HM, '84)
+p287
+g2
+sVGwar - Sick Of You [HM, '90]
+p288
+g2
+sVBad Lizard - "Evil Woman" (HM, '83)
+p289
+g2
+sVJudas Priest - "Metal Gods" (Live, '83, US Festival - San Bernardino, CA)
+p290
+g2
+sVKorzus - "Guerreiros do Metal" (SM/TM, '85)
+p291
+g2
+sVSkitzo - "Skulling" [TM, '91]
+p292
+g2
+sVPersian Risk - "Calling For You" (NWOBHM, '79)
+p293
+g2
+sVEarthshaker - "Time is Going" (HM, '83)
+p294
+g2
+sVRitual Sacrifice - "Dead Reckoning" (TM, 1990)
+p295
+g2
+sVStormwitch - "Cave Of Steenfoil" (HM, '84) - [4:21]
+p296
+g2
+sVSpitfire - "Blade Runner" (HM, '84)
+p297
+g2
+sVProcreation - Darkest Force [DM, '91]
+p298
+g2
+sVArkham (Ger) - Metal or Chains [HM/SM, 1986]
+p299
+g2
+sVFLOTSAM AND JETSAM - Hammerhead [Power/Thrash. 1985]
+p300
+g2
+sVFates Warning - Fata Morgana
+p301
+g2
+sVRipper - "Don't Tie Me Down" (HM, '86)
+p302
+g2
+sVRunning Wild - Prisoners of Our Time (HM, '84)
+p303
+g2
+sVThe Beast - The Beast (USPM, '83)
+p304
+g2
+sVVulcano - "Incubus" (DM/TM, '86)
+p305
+g2
+sVBattlefield - "Grave of the Unknown" (TM, '87)
+p306
+g2
+sVAngus - "Heavy Weight Warrior" (HM, '86)
+p307
+g2
+sVMortuary Drape - "Vengeance From Beyond" (BM/DM, '92)
+p308
+g2
+sVLust - "We'll Never Die" (PM, '88)
+p309
+g2
+sVTriumph - Fight the Good Fight (CM '81)
+p310
+g2
+sVFlotsam &amp; Jetsam - "I Live, You Die" (thrash, '88)
+p311
+g2
+sVCharger - Desperadoes
+p312
+g2
+sVPhasslayne - "Who's Losing Now" (NWOBHM, '85)
+p313
+g2
+sVJudas Priest - Devil's child
+p314
+g2
+sVKublai Khan - Passing Away / Kublai Khan (Thrash/Speed, rare 1987 release)
+p315
+g2
+sVKreator - "Bringer of Torture" (TM '89) [Live 1990 East Berlin]
+p316
+g2
+sVRecalcitrance - Fragmented Origins (Prog/TM '90)
+p317
+g2
+sVKrokus - Russian Winter (HM, '83)
+p318
+g2
+sVEnchanter - Progressive Entrapment (TM '89)
+p319
+g2
+sVWarriör - "Let Battle Commence" (NWOBHM, '80)
+p320
+g2
+sVDef Leppard - Wasted, 1979 (HM)
+p321
+g2
+sVIntrinsic (USPM/SM, 91)
+p322
+g2
+sVSCANNER - across the universe (German PM 1988)
+p323
+g2
+sVSacrifice - "Soldiers of Misfortune" (thrash, '91)
+p324
+g2
+sVCrux (Cze) - \u0158ev smrti (Scream of Death) [BM/TM, '93]
+p325
+g2
+sVParasite - "Nightwinds" (HM, '84)
+p326
+g2
+sVWolf - Edge Of The World (NWOBHM '84)
+p327
+g2
+sVBattalion (Dnk) - Violent Gang [TM, '86]
+p328
+g2
+sVNightmare - Waiting for the Twilight (HM/PM, '84)
+p329
+g2
+sVIron Maiden - Running free [1980 HM]
+p330
+g2
+sVSeance (US) - Armageddon (PM, '92)
+p331
+g2
+sVImage - "Illusions" (HM, '86)
+p332
+g2
+sVBlackout - "Victim of the Night" (HM, '84)
+p333
+g2
+sVIndulgence - Darkness [TM/DM, '92]
+p334
+g2
+sVKeen Hue - "Ogre King" (HM, '85)
+p335
+g2
+sVFinal Prophecy - Golgotha (Epic SM)
+p336
+g2
+sVMystic Force - "Take Command" (USPM, '90)
+p337
+g2
+sVWizzard - Ninya Warrior (HM, '86)
+p338
+g2
+sVDestruction - "Bestial Invasion" live (Thrash, '85)
+p339
+g2
+sVPaul Chain - "I Remember a Black Mass" (doom, '88)
+p340
+g2
+sVMalice - "Hellrider" (PM/SM, '85)
+p341
+g2
+sVChaos Horde - When Will It Change (TM '86)
+p342
+g2
+sVWhiplash - "Stage Dive" (TM, '85)
+p343
+g2
+sVBlack Sabbath - "The Fallen" (doom/HM, '83 - unreleased song from the Born Again sessions)
+p344
+g2
+sVMidas Touch - "When the Boot Comes Down" (TM/SM, '89)
+p345
+g2
+sVLord Belial - The Art of Dying [DM/BM, 1993]
+p346
+g2
+sVPoseidon - Right To Live (USPM 1993)
+p347
+g2
+sVDr. Mastermind - "The Villa (2631)" (SM, '86)
+p348
+g2
+sVAttaxe - Lethal Deception (TM '91)
+p349
+g2
+sVAvalanche - "Sorcerer" (HM, '85)
+p350
+g2
+sVStorm (Nor) -Kom Tilbake Mor (1982)
+p351
+g2
+sVLords of the Crimson Alliance - "Dragonslayer" (USPM, '86)
+p352
+g2
+sVMegaslaughter - "Blood Runs Free" (DM, '91)
+p353
+g2
+sVShiva - Call Me in the Morning [HM - 1982]
+p354
+g2
+sVBrute Force - You've Been Warned (USPM, '88)
+p355
+g2
+sVCitron - "Kráska a Radegast" (HM, '87)
+p356
+g2
+sVMindless Sinner - "Master of Evil" (HM, '83)
+p357
+g2
+sVApollo Ra - Crimson Streets
+p358
+g2
+sVStormqueen - "No Peace For the Wicked" (NWOBHM, '82)
+p359
+g2
+sVCrypt of Kerberos - "Cyclone of Insanity" (DM, '91)
+p360
+g2
+sVBurner - Savage Killer [NWOBHM, '82]
+p361
+g2
+sVRage - "Refuge" (SM, '93)
+p362
+g2
+sVSavage Thrust - But Soon Revenge [TM '87]
+p363
+g2
+sVLoudness - I'm on Fire [HM, '81]
+p364
+g2
+sVAssorted Heap - "Unexpiated Bloodshed" (TM/DM, '91)
+p365
+g2
+sVLiege Lord - Rage of angels
+p366
+g2
+sVPanzer - "Sálvese Quién Pueda" (HM, '83)
+p367
+g2
+sVProud - "Dark Lady Forest" (HM, '84)
+p368
+g2
+sVForce Majeure - "Technical Solution" (HM, '88)
+p369
+g2
+sVSlauter Xtroyes - "Battle Axe" (USPM, '83)
+p370
+g2
+sVCeltic Frost - "Into The Crypts Of Rays" (BM, '84)
+p371
+g2
+sVLääz Rockit - Euroshima (SP/TM, '87)
+p372
+g2
+sVThor (ESP) - "Desertor" (HM/PM, '87)
+p373
+g2
+sVSteel Vengeance - "Vengeance is Mine" (HM, '88)
+p374
+g2
+sVAxe Witch - "Give Them Hell" (HM, '84)
+p375
+g2
+sVAcid Drinkers - Vile Vicious Vision (Thrash/Punk, '93)
+p376
+g2
+sVQ5 - "Missing in Action" (HM, '84)
+p377
+g2
+sVIron Maiden - Hallowed be thy name
+p378
+g2
+sVDark Lord - "It's Nigh' Time" (HM, '88)
+p379
+g2
+sVRunning Wild - "Walpurgis Night" (re-recording - '91)
+p380
+g2
+sVWarshydle - Victory (US Metal 1986)
+p381
+g2
+sV\u041c\u0430\u0441\u0442\u0435\u0440 (Master) - \u041a\u0442\u043e \u041a\u043e\u0433\u043e? (Who Will Win?) [SM, '88]
+p382
+g2
+sVLegend - "The Wizard's Vengeance" (HM, '79)
+p383
+g2
+sVTribulation - Beautiful Views [Thrash/crossover, '91]
+p384
+g2
+sVPokolgep - Ujra Szuletnek (more Hungarian Heavy Metal, '87)
+p385
+g2
+sVMetallica - Disposable Heroes (thrash '86)
+p386
+g2
+sVMephisto - "Mephisto" (SM, '88)
+p387
+g2
+sVHollow Ground - "Don't Chase the Dragon" (NWOBHM, '80)
+p388
+g2
+sVAnvil - Metal on Metal (HM, '82)
+p389
+g2
+sVAirdash - Sleepwalk (TM, '89)
+p390
+g2
+sVBlacklace - "On the Attack" (HM, '84)
+p391
+g2
+sVCarrion - "Antichrist" (SM/TM, '86)
+p392
+g2
+sVEpitaph (Swe-Ludvika) - Deceit [TM, '92]
+p393
+g2
+sVDemon Pact - "Eaten Alive" (NWOBHM, '81)
+p394
+g2
+sVProtected Illusion - Plain Pain (DM/TM '90)
+p395
+g2
+sVTitan - "G.I.'s Heritage" (SM, '86)
+p396
+g2
+sVBrutality - Chemical Straight Jacket (TM '90)
+p397
+g2
+sVWatchtower - "Asylum" (TM, '84)
+p398
+g2
+sVDamien (SWE) - "Onslaught Without Mercy" (HM/TM, '86)
+p399
+g2
+sVMersinary - "Hunt You Down" (SM/TM, '88)
+p400
+g2
+sVAbsurd - Storm of Malevolence [DM, '91]
+p401
+g2
+sVDead Infection - Let Me Vomit [GC/DM, '93]
+p402
+g2
+sVSalem Spade - "Council of the Elders" (USPM, '88)
+p403
+g2
+sVIncubus (UK) - "She Laid Him Down" (NWOBHM, '84)
+p404
+g2
+sVNeurodeliri - "Apocalypse" (SM, '93 - ex-Bulldozer)
+p405
+g2
+sVTalion - Speed Thrills (SM/PM, '89)
+p406
+g2
+sVSyrus - "To the Demon or the Deity" (USPM, '86)
+p407
+g2
+sVBlack Knight - Master Of Disaster (HM/PM, '85)
+p408
+g2
+sVSpeedica - "Torture" (SM/TM, '92)
+p409
+g2
+sVIon Britton - "Nite Frite" (USPM, '87)
+p410
+g2
+sVDirty Tricks - Back Off Evil (Proto-metal, '75)
+p411
+g2
+sVUnderage-Marijuana Punk(1983 Italian HC)
+p412
+g2
+sVGotham City - "Battle Blade" (HM, '84)
+p413
+g2
+sVWikka - "Beware of the King" (PM, '88)
+p414
+g2
+sVBathory - "Sacrifice" (BM, '84 - first recording from Scandinavian Metal Attack)
+p415
+g2
+sVMistreater - "Hell's Fire" (HM, '81)
+p416
+g2
+sVProphets of Doom - "Pilgrims of the Faith" (HM, '89)
+p417
+g2
+sVChozzen Phate - "Lost Forever" (USPM, '95)
+p418
+g2
+sVLimelight - "Metal Man" (HM, '82)
+p419
+g2
+sVSilver Mountain - "Prophet of Doom" (HM, '80)
+p420
+g2
+sVRobespierre - "Die You Heathen Die" (NWOBHM, '83)
+p421
+g2
+sVVoor - "Creatures of War" (TM, '85)
+p422
+g2
+sVCreepy Family - "Midnight Warrior" (HM, '85)
+p423
+g2
+sVAstaroth - "Die to Be Alive" (SM, '85)
+p424
+g2
+sVThe Handsome Beasts - All Riot Now (NWOBHM, '80)
+p425
+g2
+sVQuiet Riot - "Bang Your Head (Metal Health)" (HM, '83)
+p426
+g2
+sVMotherlode - "Father of Lies" (HM/HR, '86)
+p427
+g2
+sVBlood Farmers - Bullet in my Head (Doom, '95)
+p428
+g2
+sVCommander - "Knights of the Round Table" (USPM, '87)
+p429
+g2
+sVLust - "Smoke on the Hills" (PM, '88)
+p430
+g2
+sVSinister Angel - "Enter the Gates of Hell" (USPM, '84)
+p431
+g2
+sVHeir Apparent - The Cloak (USPM, '86)
+p432
+g2
+sVScanner - "Across the Universe" (HM, '88)
+p433
+g2
+sVTriarchy - "Hellhound on My Trail" (NWOBHM, '81)
+p434
+g2
+sVKat - "Metal i Piek\u0142o" (SM, '85)
+p435
+g2
+sVArkona (Pol) - Przysz\u0142y Zdrajca Chrze\u015bcija\u0144skiej Masy [BM, '94]
+p436
+g2
+sVAnvil Chorus - Blue Flames
+p437
+g2
+sVSchizo - "Threshold of Pain" (TM/BM, '89)
+p438
+g2
+sVOnslaught - Fight With The Beast (TM, '86)
+p439
+g2
+sVLegend - Lazy Woman - 1982
+p440
+g2
+sVTrespass - "Stormchild" (NWOBHM, '80)
+p441
+g2
+sVQuartz - Devil's brew [NWOBHM, '77]
+p442
+g2
+sVSinner - "Danger Zone" (HM, '84)
+p443
+g2
+sVTaliön - "Screaming For Mercy" (PM/SM, '89)
+p444
+g2
+sVChild Saint - I Am Future (HM/TD, '88)
+p445
+g2
+sVKiller - Maybe Our Interests Are the Same [Heavy Metal, Belgium, '84]
+p446
+g2
+sVEgypt - "The Gallows Wait" (HM, '88)
+p447
+g2
+sVHellanbach - "Let's Get This Show on the Road" (NWOBHM, '80)
+p448
+g2
+sVMetallica - Fight Fire with Fire [1984 Thrash]
+p449
+g2
+sVIron Cross - "Fantasy World" (USPM, '86)
+p450
+g2
+sVStress, "Sötétség Birodalma" (HM, '91)
+p451
+g2
+sVBombarder - Speed Metal [SM/TM, '89]
+p452
+g2
+sVKorrozia Metalla - "Spid" (TM, '88)
+p453
+g2
+sVSortilège - "Amazone" (HM, '83)
+p454
+g2
+sVCadaver - "Cannibalistic Dissection" (DM, '90)
+p455
+g2
+sVMartyr - Speed of Samurai (SM/PM, '84)
+p456
+g2
+sVExtreme Noise Terror - "Bullshit Propaganda" [Grindcore/metallic crust, 1989]
+p457
+g2
+sVSabotage - "Killer Della Notte" (HM, '84)
+p458
+g2
+sVDevil Childe - "Grave Robber" (HM, '85)
+p459
+g2
+sVWarhead - "Path of Destruction" (USPM, '84)
+p460
+g2
+sVTysondog - "Hammerhead" (NWOBHM, '84)
+p461
+g2
+sVLezlie Paice - Fighting Man (HM '83)
+p462
+g2
+sVMore - "Blood and Thunder" (NWOBHM, '82)
+p463
+g2
+sVSavage - "Cry Wolf" (NWOBHM, '83)
+p464
+g2
+sVDeathslayer - "Raven's Nest" (HM, '84)
+p465
+g2
+sVGenocide (JPN) - "Landscape of Life" (HM, '88)
+p466
+g2
+sVSadist - "Black Screams" (DM, '91)
+p467
+g2
+sVManilla Road - Road Of Kings (PM, '85)
+p468
+g2
+sVSteeler - Hot On Your Heels [HM '83] (Yngwie was barely 20 when he played this)
+p469
+g2
+sVDark Heart - "Don't Break the Circle" (NWOBHM, '84)
+p470
+g2
+sVSacrosanct - Disputed Death (TM, '90)
+p471
+g2
+sVTSA - Heavy Metal World (HM '84)
+p472
+g2
+sVChainsaw - "Hell's Burnin' Up" (SM, '86)
+p473
+g2
+sVEden - Pound It Out (USA 1985)
+p474
+g2
+sVRhabstallion - Breadline (NWOBHM, '81)
+p475
+g2
+sVHamer (aka Hämmer) - The Oddest Dream (TM, '90)
+p476
+g2
+sVTank - Turn Your Head Around (NWOBHM '91)
+p477
+g2
+sVEnchanter - "Beckoned With the Call" (USPM, '88)
+p478
+g2
+sVAxemaster - "The Reaper" (USPM, '87)
+p479
+g2
+sV[NWOBHM] Kraken - Destroyer
+p480
+g2
+sVJudas Priest - Painkiller [1990 HM/SM]
+p481
+g2
+sVHeaven's Gate - "The Never Ending Fire" (PM, '91)
+p482
+g2
+sVStormtrooper - Armies of the night (1985 US HM/PM)
+p483
+g2
+sVJurassic Jade - Go To The Dogs [TM, '86]
+p484
+g2
+sVAtlain - "Guardians of Eternity" (SM, '85)
+p485
+g2
+sVBlacklace - "Speed of Sound" (HM, '85)
+p486
+g2
+sVWestfalen - (I Am A) Maniac [Heavy Metal, Belgium, '85]
+p487
+g2
+sVThus Defiled - Through The Impure Veil Of Dawn [DM/BM, '95]
+p488
+g2
+sVKillen - Soldiers in Steel (HM, '87)
+p489
+g2
+sVRottest Slag - Putrefy [GC/DM, '92]
+p490
+g2
+sVFlight Charm - "Waiting White Lady" (HM, '88)
+p491
+g2
+sVHolocaust - "Death or Glory" (NWOBHM, '81)
+p492
+g2
+sVSkeleton - The Unwanted One (PM/TM '88)
+p493
+g2
+sVElysian - "Blinded By Sound" (HM, '85)
+p494
+g2
+sVPowersurge - "Burning Revenge" (USPM, '91)
+p495
+g2
+sVThruster - "Illusions" (USPM, '86)
+p496
+g2
+sVTrouble - Psalm 9 [Doom 84]
+p497
+g2
+sVSorcery (SWE) - "Immortality Given" (DM, '91)
+p498
+g2
+sVRainbow - Tarot Woman [76]
+p499
+g2
+sVAngel Witch - "Child of the Night" (HM, 85')
+p500
+g2
+sVHallowed - Running Forever (HM '86)
+p501
+g2
+sVPraying Mantis - "Captured City" (NWOBHM, '79)
+p502
+g2
+sVMatakopas - "Insane" (USPM, '87)
+p503
+g2
+sVDum Dum Bullet - "Hey Mum, Who's the Junk?" (HM, '85)
+p504
+g2
+sVManowar - Blood of My Enemies [84]
+p505
+g2
+sVNigel Foxxe's Inc. - "Condemned" (SM, '88)
+p506
+g2
+sVStos - "Obled Dusz" (SM, '87)
+p507
+g2
+sVBloody Six - "High Class an' Wild" (HM, '84)
+p508
+g2
+sVObliveon - From This Day Forward (TM, '90)
+p509
+g2
+sVDemolition Hammer - "Hydrophobia" (thrash, '90)
+p510
+g2
+sVHeretic - "Let 'Em Bleed" (USPM, '88)
+p511
+g2
+sVTorment - "Cry For Justice" (TM, '91)
+p512
+g2
+sVDeath In Action - World of Dreams (TM, '91)
+p513
+g2
+sVHear'N'Aid - Stars (HM, '86)
+p514
+g2
+sVFatal - Guts for Dinner [DM/TM, '88]
+p515
+g2
+sVLuzbel - "Pasaporte al Infierno" (HM, '87)
+p516
+g2
+sVCutty Sark - Do Come True (HM '85)
+p517
+g2
+sVSolar Eagle - "Chains of Gold" (PM, '87)
+p518
+g2
+sVStress - "Sodoma e Gomorra" (HM, '82)
+p519
+g2
+sVCrystal Knight - "War Attack" (HM, '85)
+p520
+g2
+sVDarkthrone - Soulside Journey (DM '91)
+p521
+g2
+sVXinr - "Ever Present Angel" (HM, '84)
+p522
+g2
+sV\u0410\u0441\u043f\u0438\u0434 (Aspid) - \u041a\u0440\u043e\u0432\u043e\u0438\u0437\u043b\u0438\u044f\u043d\u0438\u0435 (Extravasation) (TM, '88)
+p523
+g2
+sVAberration - Aberration Of Absurd [DM, '93]
+p524
+g2
+sVAvalon - "Lords of Chaos" (HM, '88)
+p525
+g2
+sVSweet Savage - "Killing Time" (NWOBHM, '81)
+p526
+g2
+sVDoomwatch - Notorius [TM '89]
+p527
+g2
+sVNum Skull - "The Henchmen" (DM/TM, '88)
+p528
+g2
+sVJudas Priest - Locked in
+p529
+g2
+sVS.D.I. - "Long Way From Home" (SM, '88)
+p530
+g2
+sVMirage - "Hellbound" (HM, '85)
+p531
+g2
+sVAgressor - Brainstorm (TM, '90)
+p532
+g2
+sVLeprosy - Tormento Nocturno (TM, '94)
+p533
+g2
+sVCrowley - "Midnight Dream" (HM, '85)
+p534
+g2
+sVDeathmass - Immortal Force [US Doom/Thrash 1990]
+p535
+g2
+sVCacumen - Bad Widow (HM Ger 1983.)
+p536
+g2
+sVCandlemass - Bewitched (HM, '87)
+p537
+g2
+sVRadium - "Angel of Fear" (NWOBHM, '81)
+p538
+g2
+sVAdramelch - "Fearful Visions" (PM/prog, '88)
+p539
+g2
+sVKat - G\u0142os z Ciemno\u015bci [HM, '88]
+p540
+g2
+sVTyrant - Babylon (USPM, '87)
+p541
+g2
+sVLucifer's Hammer - Entrance To Gehenna [BM/DM, '95]
+p542
+g2
+sVBreaker (GER) - "Shout Out Loud" (SM, '85)
+p543
+g2
+sVSavatage - By the Grace of the Witch (PM, '84)
+p544
+g2
+sVVanadium - "A Race With the Devil" (HM, '83)
+p545
+g2
+sVAbattoir - The Living and the Dead ('85, USPM/Speed)
+p546
+g2
+sVADX - "Sacrifice In The Ice" (SM, '90)
+p547
+g2
+sVHeavy Load - Run with the Devil (HM, '83)
+p548
+g2
+sVFuture Tense - "Condemned to the Gallow" (HM, '84)
+p549
+g2
+sVSaracen - "Ready to Fly" (NWOBHM, '81)
+p550
+g2
+sVElectric Wizard - "Stone Magnet" (Doom , 95')
+p551
+g2
+sVAvalon - "Perfect Illusions" (HM, '86)
+p552
+g2
+sVHell - "In Depths of Despair" (NWOBHM, '82)
+p553
+g2
+sVGravestone - "Death and Reality" (HM, '84)
+p554
+g2
+sVBitches Sin - Bitches Sin [NWOBHM - 1986]
+p555
+g2
+sVOstrogoth - "Rock Fever" (HM, '83)
+p556
+g2
+sVAzul Limão - "Rotina" (HM, '87)
+p557
+g2
+sVDark (Cze) - Making My Blood Boil (DM, '92)
+p558
+g2
+sVMesomorph - Wild Cat Lover (USA 1985)
+p559
+g2
+sVWardance - Neverending Nightmare [SM, '90]
+p560
+g2
+sVBlack Fate - Child Of Hell [HM '86]
+p561
+g2
+sVSweet Savage - The Raid/The Ripper [NWOBHM '80]
+p562
+g2
+sVTokyo Blade - Night of the Blade (HM)
+p563
+g2
+sVSpectral Incursion - Rails (Prog/HM, '89)
+p564
+g2
+sVThe Beast - "The Shape" (USPM, '84)
+p565
+g2
+sVMorbid Scream - "Face Of Death" (TM, '87)
+p566
+g2
+sVBeowulf - "The Hounds of Tindalos" (HM, '80)
+p567
+g2
+sVDemolition - "Hooker Hater" (NWOBHM, '81)
+p568
+g2
+sVAmentia (Swe) - Crypt of Despair [DM/TM, '92]
+p569
+g2
+sVD.I.V. - Mein Kampf (TM '92)
+p570
+g2
+sVHELLION - To Hellion And Back - FANPACK AVAILABLE EXCLUSIVELY THROUGH THE OMEGA ORDER!
+p571
+g2
+sVMystik - Commandment (PM, '90)
+p572
+g2
+sVDamien - "Race to the End" (USPM, '87)
+p573
+g2
+sVRex Begonia - Rex Begonia (HM '82)
+p574
+g2
+sVWildfire - "Wild Dogs" (NWOBHM, '80)
+p575
+g2
+sVAsgard - "Hero's Tears" (HM, '88)
+p576
+g2
+sVBeast (Ger) - Mad Man (1985)
+p577
+g2
+sVTygers of Pan Tang - "Gangland" (NWOBHM, '81)
+p578
+g2
+sVFlames - False Alarm (SM, '85)
+p579
+g2
+sVBulldozer - "The Great Deceiver" (BM/SM, '85)
+p580
+g2
+sVInfected - Brutalities Behind Your Back (TM/DM, '89)
+p581
+g2
+sVPersian Risk - "Riding High" (NWOBHM, '83)
+p582
+g2
+sVSeduce - "Chopping Block" (HM, '85)
+p583
+g2
+sVSorcerer - "Far Beyond" (doom, '89)
+p584
+g2
+sVSteel Crown - "Night Walk" (HM, '89)
+p585
+g2
+sVDragon - \u0141zy Szatana (Tears of Satan) [death/doom/thrash, '90]
+p586
+g2
+sVAttak - "Veni Vidi Vici" (USPM, '85)
+p587
+g2
+sVNightmare - "Lord of the Sky" (HM, '84)
+p588
+g2
+sVDeathwish - In the Name of God (Thrash, 87)
+p589
+g2
+sVDissection - "Minotaur the Emperor" (TM, '88)
+p590
+g2
+sVBlack Hole - Return of Gothic Spirit [Occult Doom, '88]
+p591
+g2
+sVOmen (HUN) - "Könny\u0171 Szívvel" (PM, '91)
+p592
+g2
+sVNuclear Assault - "Critical Mass" (TM, '89)
+p593
+g2
+sVHeir Apparent - "Tear Down the Walls" (USPM, '86)
+p594
+g2
+sVHazael - Clairvoyance [DM, '92]
+p595
+g2
+sVCarbonized - Purified (From the Sulfer) (DM, '91)
+p596
+g2
+sVMercynary - Over the Flame (TM '89)
+p597
+g2
+sVOriginal Sin - "Conjuration of the Watcher" (SM, '86)
+p598
+g2
+sVBlood Money - "The Legend (Aghati)" (SM, '87)
+p599
+g2
+sVKing Diamond - "Shrine" (non album B-side - HM, '87)
+p600
+g2
+sVRainbow - A Light in the Black (HM/Proto '76)
+p601
+g2
+sVTurbo- Kawaleria Szatana cz. II (Polish Heavy/Speed Metal, '86)
+p602
+g2
+sV1,000 readers!
+p603
+VWelcome to the new faces, and everyone keep on submitting quality links!
+p604
+sVBrands Hatch - "No Return" (NWOBHM, '82)
+p605
+g2
+sVBlack Coffee - "The Dawn of Life" (HM, '87)
+p606
+g2
+sVVillain - Kamikaze
+p607
+g2
+sVMissió - "Remény" (HM, '89)
+p608
+g2
+sVViking - Berserker (TM, '88)
+p609
+g2
+sVCrossfire - "Demon of Evil" (HM, '84)
+p610
+g2
+sVTorch - Watcher Of The Night (Heavy Metal, '83)
+p611
+g2
+sVMax Planck - Roar (USPM, '86)
+p612
+g2
+sVCommandment - "Oriental Maiden" (USPM, '89)
+p613
+g2
+sVChalice (US) - Seven Seas of Rhye
+p614
+g2
+sVRat Attack - "Holocaust" (HM, '83)
+p615
+g2
+sVRandy - The Beast [Heavy Metal, Denmark, '86]
+p616
+g2
+sVStormwind - "Taken By Storm" (HM, '84)
+p617
+g2
+sVNothing Sacred - "This is War" (TM, '88)
+p618
+g2
+sVBrainfever - "Suicide" (HM, '84)
+p619
+g2
+sVWitchfinder General - Invisible Hate
+p620
+g2
+sVFable - Lady of the Night [HM, '75] (xpost r/monsterfuzz)
+p621
+g2
+sVHollow Ground - "Flying High" (NWOBHM, '80)
+p622
+g2
+sVNazareth - Beggars Day [HM '75]
+p623
+g2
+sVHolster - "Les Fois Rous" (HM, '83)
+p624
+g2
+sVVirgin Steele - The Burning Of Rome [USHM/PM 1988]
+p625
+g2
+sVOutside - "Wild Scud to Hell" (HM, '88)
+p626
+g2
+sVHeavy Load - Stronger than Evil (SM '83)
+p627
+g2
+sVNightmare - Trust a Crowd [HM, '84]
+p628
+g2
+sVStutz - The Prophecy (USA 1986)
+p629
+g2
+sVKiller (BEL) - "In the Name of the Law" (HM, '84)
+p630
+g2
+sVCondemnation - "Reign of Terror" (DM/TM, '93)
+p631
+g2
+sVTaurus - Massacre [SM/TM, '86]
+p632
+g2
+sVJudas Priest--Ram It Down. My favorite JP song and an absolutely mind-blowing solo duel.
+p633
+g2
+sVVoltz - "Dorian Grey" (NWOBHM, '82)
+p634
+g2
+sVArcane - "Enshrouded Crypt" (USPM, '90)
+p635
+g2
+sVLoudness - Street Woman (HM, '81)
+p636
+g2
+sVDust - "From a Dry Camel" (proto-metal, '71)
+p637
+g2
+sVDamien - "Hammer of the Gods" (HM, '86)
+p638
+g2
+sVScorpions - Can't Get Enough 1979
+p639
+g2
+sVBLIND GUARDIAN - "Bright Eyes" (Official Video) HD [1995 PM Germany]
+p640
+g2
+sVNew Wave of British Heavy Metal
+p641
+VIs there anything that sonically differentiated these bands from other heavy metal bands of the same time period? I mean, properly speaking, it isn't a genre but that's how people use it all the time. The Metal Archives lists it as a genre, and we even do it here on /r/ClassicMetal. But even if it isn't a proper genre as musicologists would understand it, is there a specific sound associated with it that American or Swedish bands would not have had? If there is, I haven't been able to find it.\u000a\u000aBonus question: what are the actual beginning and ending years of the movement? If I had to guess, I would place the beginning around 1977 or 1978 but really wouldn't know where to put the end. 1985?
+p642
+sVPersecution - Relentless Slaughter [DM/TM, '89]
+p643
+g2
+sVTaramis - Queen Of Thieves (TM '87)
+p644
+g2
+sVHammer - "Caution to the Wind" (NWOBHM, '85)
+p645
+g2
+sVSatan - Broken Treaties (NWOBHM, '83)
+p646
+g2
+sVBombarder - Metalni Bog [SM/TM '89]
+p647
+g2
+sV220 Volt - "Airborne Fighter" (HM '84)
+p648
+g2
+sVAir Raid - 69 in a 55 (USA 1983)
+p649
+g2
+sVGun - Race with the Devil (proto metal, '68)
+p650
+g2
+sVBreaker (US) - "Behind Enemy Lines" (HM`, '87)
+p651
+g2
+sVXyster - Suicide (DM/TM, '89)
+p652
+g2
+sVFates Warning - "Damnation" (USPM, '84)
+p653
+g2
+sVExpect No Mercy - "Iron Cross" (HM, '84)
+p654
+g2
+sVAnthem - "Wild Anthem" (HM, '85)
+p655
+g2
+sVMessiah - "Weeping Willow" (DM/TM, '91)
+p656
+g2
+sVHydra Vein - 7 USC (TM, '89)
+p657
+g2
+sVNightcrawler - "Eternal Call" (HM/PM, '89)
+p658
+g2
+sVHustler - "I've Got a Speed" (HM, '85)
+p659
+g2
+sVGenocide (JPN) - "Doomsday" (HM, '88)
+p660
+g2
+sVBlack Sabbath - Iron Man (BM '70)
+p661
+g2
+sVDrive - "(New Reign) The Phoenix" (USPM, '88)
+p662
+g2
+sVRazor - Tortured Skull (TM, '85)
+p663
+g2
+sVBleak House-Rainbow Warrior
+p664
+g2
+sVThe Plasmatics - "The Damned" (HM, '82)
+p665
+g2
+sVGladiators - "Dead Man's Walk" (HM, '90)
+p666
+g2
+sVWaxface - "Graves of God" (HM, '86)
+p667
+g2
+sVAnihilated - "Into the Flames of Armageddon" (TM, '89)
+p668
+g2
+sVIntrinsic Announces Deals With Divebomb Records!!
+p669
+VIntrinsic, a US power/speed metal band that gained noteriety with the release of their self titled album in 1987, has signed a deal with Divebomb Records to issue their never been released album from 1991, "Nails". A firm release date has not been set, but will happen around mid-2015.\u000a\u000aTo listen to a track: https://www.youtube.com/watch?v=qkKj3tuDooc&amp;feature=youtu.be\u000a\u000aIntrinsic Facebook page for more information: https://www.facebook.com/pages/Intrinsic/126847387382243?sk=manager&amp;tab=messages\u000a\u000aDivebomb Records http://www.divebombrecords.com/site/\u000a
+p670
+sVCrillson - Who Can You Trust (USPM, '93)
+p671
+g2
+sVBlack Sabbath - E5150/Mob Rules (NWOBHM '81)
+p672
+g2
+sVSad Iron - "Demon's Night" (HM, '84)
+p673
+g2
+sVSortilege - Sortilege (HM, '83)
+p674
+g2
+sV\u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0439 \u041a\u0440\u0430\u0439 - "\u0421\u0432\u043e\u0431\u043e\u0434\u044b \u0437\u0430\u0445\u043e\u0442\u0435\u043b\u0438?" (HM, '90)
+p675
+g2
+sVAbattoir - Screams from the Grave
+p676
+g2
+sVWatchtower - Control and Resistance (tech/prog thrash, '89)
+p677
+g2
+sVRandy - "Shadows Are Falling" (HM, '86)
+p678
+g2
+sVBlue Oyster Cult - Vengeance (The Pact) [hard rock/HM 1981]
+p679
+g2
+sVYoung Thunder - Killer (TM, '92)
+p680
+g2
+sVWhat?? Is this real life?
+p681
+g2
+sVHigh Power - "Offrande Charnelle" (HM, '84)
+p682
+g2
+sVVortex - Gotta Get Away (HM, '85)
+p683
+g2
+sVVoidd - The Day After (DM, '93)
+p684
+g2
+sVMayhem - From The Dark Past - BM 90's
+p685
+g2
+sVDBC - Infinite Universe (TM/SM, '89)
+p686
+g2
+sVVoodoo Child - "Lucifer" (HM, '85)
+p687
+g2
+sVRitual (Bel) - Pater Noster [Doom/heavy, '86]
+p688
+g2
+sVIvory Tiger - Stand Up (USPM, '86)
+p689
+g2
+sVJudas Priest - Raw Deal 1977
+p690
+g2
+sVTörr - "Armageddon" (BM, '87)
+p691
+g2
+sVHeir Apparent - Keeper Of The Reign [USPM 1986]
+p692
+g2
+sVCrom - "Covered By Glory" (SM, '87)
+p693
+g2
+sVMyth - "Let Me Hear the Thunder Roar" (HM, '85)
+p694
+g2
+sVSyron Vanes - "Running Wild" (HM, '84)
+p695
+g2
+sVWizz - "Smash" (HM, '84)
+p696
+g2
+sVTorsten - "King of the Nest" (HM, '83)
+p697
+g2
+sVBlack Knight - Aaraigathor (The Metal Anthem) (HM/PM, '85)
+p698
+g2
+sVProwler - "Lick the Knife" (TM, '88)
+p699
+g2
+sVCronos Titan - Backstreet Revolution (Speed/Thrash. Ger. 1986)
+p700
+g2
+sVThunder Rider - "Blackwing" (PM, '89)
+p701
+g2
+sVCrush - Run to the Highway (PM,'93)
+p702
+g2
+sVHeathen - Kill the King
+p703
+g2
+sVBlade Runner - "Too Far, Too Late" (NWOBHM, '84)
+p704
+g2
+sVNoisehunter - Stormbringer (HM '86)
+p705
+g2
+sVMalicious Onslaught - Extinction Of God [TM/DM, '92]
+p706
+g2
+sVEnslaved - V.d.O, from their very first demo (BM, '91)
+p707
+g2
+sVNazareth - Hair of the Dog (BM '75)
+p708
+g2
+sVRainbow - "Stargazer" (HM, '80 - live)
+p709
+g2
+sVTokyo Blade - Sunrise In Tokyo [NWOBHM '83]
+p710
+g2
+sVVectom - "Prisoner's Back" (SM, '86)
+p711
+g2
+sVMistrust - "Spin the World" (HM, '86)
+p712
+g2
+sVMax Planck - "Enter Into the Rock" (HM, ' 85)
+p713
+g2
+sVShok Paris - "Castle Walls" (USPM, '87)
+p714
+g2
+sVMax Lynx - "Running With the Wild" (USPM, '83)
+p715
+g2
+sVHolland - "Do It" (NWOBHM, '84)
+p716
+g2
+sVJaguar - "Dutch Connection" (NWOBHM, '83)
+p717
+g2
+sVDevastation (US-IL) - Dispensable Bloodshed (DM/TM, '87)
+p718
+g2
+sVNightfall - "Mother of All Gods, Mother of Mine" (death/doom, '94)
+p719
+g2
+sVPretty Maids - "Back to Back" (HM, '84)
+p720
+g2
+sVHell - "Macbeth" (NWOBHM, '82)
+p721
+g2
+sVVenin - "Passé Temps" (HM, '85)
+p722
+g2
+sVSoldier - "Sheralee" (HM, '82)
+p723
+g2
+sVSatan's Host - "Hell Fire" (HM, '86)
+p724
+g2
+sVWitchfynde - The Divine Victim (NWOBHM 1980)
+p725
+g2
+sVDarkified - "Sleep Forever" (DM, '92)
+p726
+g2
+sVHalloween - "Justice For All" (HM, '85)
+p727
+g2
+sVMetal Church - In the Blood (HM, '85)
+p728
+g2
+sVConfessor - Condemned [1991 US Tech Doom]
+p729
+g2
+sVChateaux - "The Dawn Surrendered" (NWOBHM, '83)
+p730
+g2
+sVFist - "Name, Rank and Serial Number" (NWOBHM, '80)
+p731
+g2
+sVAlverna Gunn - "Mad Dog" (NWOBHM, '82)
+p732
+g2
+sVMessiah Force - "Silent Tyrant" (SM, '87)
+p733
+g2
+sV[Black | Raw] Bathory - Satan My Master (1984 demo)
+p734
+g2
+sVGilgamesj - "Revolution" (HM, '84)
+p735
+g2
+sVAvenger - "You'll Never Take Me (Alive)" (NWOBHM, '84)
+p736
+g2
+sVHocculta - "Entity" (HM, '84)
+p737
+g2
+sVArkángel - Zombie (VM '82)
+p738
+g2
+sVMidian - Suicide Pact (TM '90)
+p739
+g2
+sVCobra - "China Syndrome" (HM, '85)
+p740
+g2
+sVAbutre - "Quando o Fogo Começa Arder" (HM, '85)
+p741
+g2
+sVThrenody - As The Heavens Fall (DM, '93)
+p742
+g2
+sVJameson Raid - "Seven Days of Splendour" (NWOBHM, '79)
+p743
+g2
+sVDemon - Night of the Demon [NWOBHM, '81]
+p744
+g2
+sVGoliath - "Dracula" (HM, '85)
+p745
+g2
+sVTyga Myra - "Dead Zone" (HM, 86)
+p746
+g2
+sVOz - "Firestarter" (HM, '86)
+p747
+g2
+sVGargoyle - "Final Victory" (USPM, '88)
+p748
+g2
+sVDealer - When Midnight Comes
+p749
+g2
+sVReverend - "Wretched Excess" (PM/TM, '89)
+p750
+g2
+sVChakal - "Children of the Cemetery" (TM, '87)
+p751
+g2
+sVHavoc - "Sons of Thunder" (HM, '86)
+p752
+g2
+sVCemetery - The Different [DM, '93]
+p753
+g2
+sVBlack Sabbath - A National Acrobat
+p754
+g2
+sVCrazy Blaze - No Peace for the Wicked [HM/NWOBHM, '86]
+p755
+g2
+sVV8 - "Tiempos Metálicos" (HM, '83)
+p756
+g2
+sVStormwitch - "Night Stalker" (PM, '85)
+p757
+g2
+sVCutthroat - "Road Warrior" (HM, '87)
+p758
+g2
+sVRaven - Wiped Out [1980]
+p759
+g2
+sVTaramis - "Queen of Thieves" (PM, '87)
+p760
+g2
+sVGlory Bell's Band - "Sir Lionheart" (HM, '82)
+p761
+g2
+sVLeatherwolf - "Spiter" (USPM, '85)
+p762
+g2
+sVDismal - Untitled [BM, '93]
+p763
+g2
+sVMegalith - "Dark Shadows" (SM, '86)
+p764
+g2
+sVBleak House - "Rainbow Warrior" (NWOBHM 1981)
+p765
+g2
+sVStygian Shore - "Tidal Wave" (HM, '84)
+p766
+g2
+sVPentagram - All Your Sins (Doom, 85')
+p767
+g2
+sVRenegade - "Black Ritual" (TM, '87)
+p768
+g2
+sV(DM) Dark - Sex Shop Of Doctor Fucktor (Cz 1992)
+p769
+g2
+sVSpartan Warrior - Assassin (NWOBHM '840
+p770
+g2
+sVRealm - "Slay the Oppressor" (TM, '88)
+p771
+g2
+sVRaven - Seek and Destroy (NWOBHM '83). Same label as Metallica when they made a song with the same title as a Metallica song in the same year.
+p772
+g2
+sVJudas Priest - Bloodstone (Live at the Mid South Coliseum - 1982)
+p773
+g2
+sVRevenant - "Distant Eyes" (DM/TM, '91)
+p774
+g2
+sVSleazy Roze (Swe) - Only One [HM, '88]
+p775
+g2
+sVMuro - "Los Nueve Mandamientos" (SM, '92)
+p776
+g2
+sVDissection (Can) - Nails on Leather (TM/SM, '88)
+p777
+g2
+sVBlack Virgin - "Nightriders" (SM, '86)
+p778
+g2
+sVKiller - "No Future" (HM, '82)
+p779
+g2
+sVS.A. Slayer - Go For The Throat (USPM/SM, '88)
+p780
+g2
+sVHobbs' Angel of Death - "Jack the Ripper" (TM, '88)
+p781
+g2
+sVA.R.G. - "Pesticide" (TM, '89)
+p782
+g2
+sVBlack Fate - "Warchild" (HM, '86)
+p783
+g2
+sVDeath Dealer - "Cross My Way" (HM, '83 - pre-Deaf Dealer)
+p784
+g2
+sVAbsu - "The Sun of Tiphareth" (BM/TM, '95)
+p785
+g2
+sVAmon - Víra [BM, '91]
+p786
+g2
+sVBlackmayne - "Twilight of Lear" (NWOBHM, '85)
+p787
+g2
+sVLiege Lord - Fallout - Master Control (1988 USPM)
+p788
+g2
+sVAlgaion - Kratos [BM, '95]
+p789
+g2
+sVOverdrive - "Back on the Hunt" (HM, '83)
+p790
+g2
+sVDamien Thorne - "Fear of the Dark" (SM, '86)
+p791
+g2
+sVRiot - "Narita" (HM/SM, 1979)
+p792
+g2
+sVStrana Officina - "The Kiss of Death" (HM, '89)
+p793
+g2
+sVSu Ta Gar - Begira (SM/HM, '91)
+p794
+g2
+sVApocalypse - The Night Before (TM, '88)
+p795
+g2
+sVDer Kaiser - "Non Retour" (SM, '84)
+p796
+g2
+sVWolf (JPN) - "Let's Get to the Fire" (HM, '87)
+p797
+g2
+sVBlack Sabbath - Feels Good To Me [1990 HM]
+p798
+g2
+sVTrial - Scream for Mercy [PM/SM, '85]
+p799
+g2
+sVSaracen - Horsemen of the Apocalypse (NWOBHM, '81)
+p800
+g2
+sVHirax - "Believe in the King" (USPM, '84)
+p801
+g2
+sVRaptus - Valhall (DM, '95)
+p802
+g2
+sVLesser known bands with large discographies
+p803
+VHey, everybody. I just discovered the heavy metal band Vicious Rumors, and really liked the first album that somebody showed me of them, which was their self-titled 1990 release. When I went to look them up, I was shocked to see that they had eleven (11) full-length releases, all of which were rated very well.\u000a\u000aWhat are some bands that aren't as well known but happen to have some pretty impressive output?
+p804
+sVRosa Negra - "Kamikazes" (HM, '84)
+p805
+g2
+sVADX - Vampire [SM, 1985]
+p806
+g2
+sVSacrifice - "Re-Animation" (TM, '87)
+p807
+g2
+sVLeather Nunn - "Take the Night" (HM, '86)
+p808
+g2
+sVCeremony - Victims of Morbidity [DM, '91]
+p809
+g2
+sVSynthese - "Killing Machine" (HM, '86)
+p810
+g2
+sVA-II-Z - "Treason" (NWOBHM, '81)
+p811
+g2
+sVInvocator - Occurrence Concealed (TM/DM, '91)
+p812
+g2
+sVUFO - "Rock Bottom" (HM, 74')
+p813
+g2
+sVEvil - "The Devil Wants Me" (SM, '84)
+p814
+g2
+sVHawaii - "One Nation Underground" (SM, '83)
+p815
+g2
+sVSteel Assassin - "Demon Hell Rogues" (HM, '83)
+p816
+g2
+sVBeowulf - Drink, Fight, F**K (USA 1986)
+p817
+g2
+sVTerror - "Decomposed" (TM, '90)
+p818
+g2
+sVNarita - "Liar" (HM, '85)
+p819
+g2
+sVCrom (FIN) - "Eyes of Fire" (HM, '85)
+p820
+g2
+sVW.A.S.P. - Animal [live 1984]
+p821
+g2
+sVBlack Sabbath - Headless Cross [HM 89]
+p822
+g2
+sVNecrophobia - Impotence by Sickness [Serbian DM, '92]
+p823
+g2
+sVStreet Child - "Temple of Set" (HM/PM, '89)
+p824
+g2
+sVTörr - Posedlá (SM, '90)
+p825
+g2
+sVWolfbane - "Midnight Lady" (NWOBHM, '81)
+p826
+g2
+sVCrank - Don't Push Me Away (Proto-metal, '70)
+p827
+g2
+sVSatan - "Avalanche of a Million Hearts" (HM/SM, '87)
+p828
+g2
+sVBuzzard - "Gambler" (HM, '84)
+p829
+g2
+sVWarfare - "Dance of the Dead" (SM, '84)
+p830
+g2
+sVSecrecy - Acting With Intellect (SM/PM, '90)
+p831
+g2
+sVTredegar - "The Alchemist" (HM, '86)
+p832
+g2
+sVHeathen's Rage - "City of Hell" (SM, '86)
+p833
+g2
+sVManes - De Morke Makters Dyp (BM, '93)
+p834
+g2
+sVRigor Mortis (NY) - "Warriors of Doom" (DM, '87 - pre-Immolation)
+p835
+g2
+sVCoroner - Semtex Revolution (Thrash, 1991)
+p836
+g2
+sVUnderdog - "Nightmares" (HM, '83)
+p837
+g2
+sVOmega - "The Prophet" (NWOBHM, '85)
+p838
+g2
+sVAttack - "No Mercy" (HM, '85)
+p839
+g2
+sVFastway - Trick Or Treat (Happy Halloween!)
+p840
+g2
+sVSanctuary - Future Tense
+p841
+g2
+sVHyksos - Kings (HM, '82)
+p842
+g2
+sVG.I.S.M. - "Frozen Dirt" (HM/HC, '87)
+p843
+g2
+sVAccept - London Leatherboys
+p844
+g2
+sVSacred Oath - "The Omen" (USPM, '87)
+p845
+g2
+sVWarrior - "Ruler" (HM, '85)
+p846
+g2
+sVCryer - The Single [NWOBHM, '80]
+p847
+g2
+sVDiamond Head - "Dead Reckoning" (NWOBHM '82)
+p848
+g2
+sVBuffalo - Sunrise (Come My Way) 1974
+p849
+g2
+sVVarathron - "The Tressrising of Nyarlathotep" (BM, '92)
+p850
+g2
+sVSacred Rite - "R.I.P." (USPM, '84)
+p851
+g2
+sVRun After To - "Visions" (doom, '85)
+p852
+g2
+sVPaul Chain Violet Theatre - "Highway to Hell" (HM/doom, '86)
+p853
+g2
+sVChastain - "Fear No Evil" (HM, '85)
+p854
+g2
+sVXentrix - "For Whose Advantage" (TM '90)
+p855
+g2
+sVBlacklist - "Confrontation" (HM, '84)
+p856
+g2
+sVMortuary (Ser) - Infected By Pollution [DM/TM, '91]
+p857
+g2
+sVPokolgép - Totális Metál (HM, '86)
+p858
+g2
+sVEmerald - "Armed For Battle" (USPM, '87)
+p859
+g2
+sVProwler - "Temporary Insanity" (HM, '86)
+p860
+g2
+sVQueen of Hearts - Sleeping with the Dead (US HM 1986)
+p861
+g2
+sVWhite Spirit - Midnight Chaser (NWOBHM, '80)
+p862
+g2
+sVTrilogy - Skyline (Australia 1986)
+p863
+g2
+sVFrigid Bich - "Call Us Robinhoods" (HM, '81)
+p864
+g2
+sVTank - Heavy Artillery 1982
+p865
+g2
+sVRellik - "Dream Killer" (HM, '86)
+p866
+g2
+sVEntasis - Evil Rise [DM/BM, '93]
+p867
+g2
+sVValkyrie(HOL) - The Ride of the Valkyries (HM/PM, '86)
+p868
+g2
+sVGraven Image - "No Rest For the Wicked" (USPM, '84)
+p869
+g2
+sVShakespeare - "Orphan Devil" (HM, '82)
+p870
+g2
+sVTytan - The Watcher (BM '86)
+p871
+g2
+sVDeath SS - Terror (HM, 81)
+p872
+g2
+sVCyclone - "The Call of Steel" (TM, '86)
+p873
+g2
+sVSaxon - And the Bands Played On (NWOBHM, '81)
+p874
+g2
+sVOverlorde - "Knights of the Realm" (USPM, '87)
+p875
+g2
+sVBattering Ram - Power Of Evil [Heavy Metal, Belgium, '87]
+p876
+g2
+sVMystifier - Possession [BM, '89]
+p877
+g2
+sVEden - "Judgement Day" (HM, '85)
+p878
+g2
+sVCarnage - "Torn Apart" (DM, '90)
+p879
+g2
+sVThe Rods - "Wild Dogs" (HM, '82)
+p880
+g2
+sVArtillery - "Bombfood" (TM, '90)
+p881
+g2
+sVDark Wizard - "Evil Spirits" (HM. '85)
+p882
+g2
+sVCutty Sark - Die Tonight (HM, 1984)
+p883
+g2
+sVUlysses Siren - Terrorist Attack (Thrash, 1985)
+p884
+g2
+sVFlames - "Red Terror" (DM/TM, '89)
+p885
+g2
+sVATC - "Cut in Ice" (HM, '84)
+p886
+g2
+sVTrojan - Chasing the Storm (SM/PM, '85)
+p887
+g2
+sVReaper - "Purgatory" (HM, '92)
+p888
+g2
+sVVicious Rumors - "Worlds and Machines" (USPM, '88)
+p889
+g2
+sVShining Blade - "On the Battlefields" (HM, '86)
+p890
+g2
+sVVanexa - "Lost War Sons" (HM, '83)
+p891
+g2
+sVKing Diamond - The Family Ghost [OFFICIAL VIDEO]
+p892
+g2
+sVKing Diamond - At The Graves (HM '89)
+p893
+g2
+sVDark - \u010cerná k\u0159ídla války (TM, '91)
+p894
+g2
+sVVirtue - We Stand to Fight [NWOBHM 1985]
+p895
+g2
+sVChastain - Voice Of The Cult [USPM '88]
+p896
+g2
+sVIcon - "Under My Gun" (HM, '84)
+p897
+g2
+sVBurial Vault - The Dreams Water Memory [DM, '92]
+p898
+g2
+sVM.A.C.E. - "Live to Ride 'Til You Die" (SM, '88)
+p899
+g2
+sVMarshall Law - "Screaming" (HM, '89)
+p900
+g2
+sVLudichrist - "You Can't Have Fun" (crossover, '86)
+p901
+g2
+sVKickstarter: OBSESSION Featuring Michael Vescera - NEW ALBUM
+p902
+g2
+sVFast Draw - \u3042\u307b\u306a\u5bb3\u866b
+p903
+g2
+sVMassacra - "Apocalyptic Warrior" (DM/TM, '90)
+p904
+g2
+sVDead Infection - Start Human Slaughter [Death/grind, '93]
+p905
+g2
+sVGoatlord - Underground Church (Death/Doom, '92)
+p906
+g2
+sVKarion - "Panzer" (USPM, '84)
+p907
+g2
+sVMammoth - Can't Take the Hurt (HM, '89)
+p908
+g2
+sVBaron Rojo - "Resistiré" (HM, '82)
+p909
+g2
+sVThe Rods - Let Them Eat Metal [HM, '84]
+p910
+g2
+sVSindrome - "Rapture in Blood" (TM/DM, '87)
+p911
+g2
+sVWhetstone - The Message (SM/PM/Epic '88)
+p912
+g2
+sVDiamond Head - Helpless (NWOBHM, '80)
+p913
+g2
+sVDefender - Die for You (SM, '87)
+p914
+g2
+sVLion's Pride - "Breaking Out" (HM, '84)
+p915
+g2
+sVFrigid Bich - "We Rule the Night" (HM, '84)
+p916
+g2
+sVMercyful Fate - Evil (HM, '83)
+p917
+g2
+sVExorcist - "Call For the Exorcist" (SM, '86)
+p918
+g2
+sVStormwitch-raven lord('86 german HM)
+p919
+g2
+sVCrimson Tyger - "Stormtroopers" (HM, '84)
+p920
+g2
+sVRigor Mortis - "Wizard of Gore" (TM, '88)
+p921
+g2
+sVADX - Prisonnier de la nuit (SM, '85)
+p922
+g2
+sVErosion - False Prophets (TM '88)
+p923
+g2
+sVSalem's Wych - "Sweet Revenge" (HM, '86)
+p924
+g2
+sVMedieval - "All Knobs to the Right" (HM, '84)
+p925
+g2
+sVRapid Tears - "Cry For Mercy" (HM, '84)
+p926
+g2
+sVDark Wizard - "Big Typhoon" (HM, '84)
+p927
+g2
+sVCrimson Glory - Lady of Winter [88]
+p928
+g2
+sVStonefield - "Darkness in Paradise" (HM, '88)
+p929
+g2
+sVGriffin - "Submission" (USPM, '84)
+p930
+g2
+sVMark Edwards - "Kamikaze" (HM, '85)
+p931
+g2
+sVMox Nix - "Kill or Be Killed" (HM, '85)
+p932
+g2
+sVFifth Angel - Wings of Destiny (USPM, '86)
+p933
+g2
+sVBitch - "Live For the Whip" (HM, '82)
+p934
+g2
+sVBloody Cross - My Death is Vengeance [BM, '93]
+p935
+g2
+sVNeptune - "Protector" (HM, '85)
+p936
+g2
+sVIroncross - "Steel Warrior" (HM, '84)
+p937
+g2
+sVHammers Rule - "Castle Walls" (HM, '84)
+p938
+g2
+sVSlayer - "I Want Your Life" (NWOBHM, '83)
+p939
+g2
+sVAuroch - "Les Hordes Sauvages" (HM, '85)
+p940
+g2
+sVLone Wolf - "Nobody's Move" (NWOBHM, '84)
+p941
+g2
+sVWarlord - "Child of the Damned" (USPM, '82)
+p942
+g2
+sVDevastation - "Souls of Sacrifice" (TM, '91)
+p943
+g2
+sVR.U. Dead? - "Hypnos" (DM, '92)
+p944
+g2
+sVEnforcer - "High Treason" (USPM, '84)
+p945
+g2
+sVSalem - "The Keeper of the Keys Pt. I, II &amp; III" (NWOBHM, '82 &amp; '83)
+p946
+g2
+sVSortilège - Civilisation Perdue [HM] 1984
+p947
+g2
+sVCasbah - "Russian Roulette" (TM, '86)
+p948
+g2
+sVNuclear Assault - Something Wicked
+p949
+g2
+sVWanted to share my new subreddit: MetalPlaylists
+p950
+VHey everybody! I've lurked this board and others and discovered a lot of music that I listen to daily. I realized that a lot of these were in Youtube videos and I had to then go find the music.\u000a\u000aI wanted to make a subreddit where we could all get together and share playlists for numerous genres and ideas and discover some new music together.\u000a\u000aSo I made /r/metalplaylists. It is still a work in progress but I hope it takes off with the power of metal/hardcore/punk.
+p951
+sVPoison Asp - "Beyond the Walls of Sleep" (TM, '90)
+p952
+g2
+sVSabbrabells - "Moon Struck" (HM, '86)
+p953
+g2
+sVLeviticus - "I Shall Conquer" (HM, '84)
+p954
+g2
+sVSodom - Outbreak of Evil (TM/BM, '84)
+p955
+g2
+sVWitchhammer - "Enola Gay" (SM, '90)
+p956
+g2
+sVTysondog - Blood Money [HM '86]
+p957
+g2
+sVSavage Death - Legions of Doom [DM/TM, '85]
+p958
+g2
+sVManilla Road - Dreams Of Eschaton and Epilogue
+p959
+g2
+sVDokken - Breaking the Chains (GM '83)
+p960
+g2
+sVBlacksmith - "The Bonemarch"/"Tower of London" (USPM, '89)
+p961
+g2
+sVDeadly Blessing - "Mindbender" (USPM, '88)
+p962
+g2
+sVCzar - Iron Curtain (USPM, '82)
+p963
+g2
+sVSentenced - "When the Moment of Death Arrives" (DM, '91)
+p964
+g2
+sVRaven - Life's a Bitch (SM/TM, 1987)
+p965
+g2
+sVSolitude - "Sojourner" (doom, '88 - pre-Solitude Aeturnus)
+p966
+g2
+sVMotörhead - "I Am The Sword" (HM '93)
+p967
+g2
+sVCirith Ungol - "Frost and Fire" (HM, '80)
+p968
+g2
+sVAshbury - Vengeance (Epic Metal/Rock, '83)
+p969
+g2
+sVLegacy - "Alone in the Dark" (thrash, '85)
+p970
+g2
+sVGargoyle - "The Burning" (USPM, '88)
+p971
+g2
+sVDoomstone - "Twisted Priest" (BM, '94)
+p972
+g2
+sVOld Funeral - Devoured Carcass [DM, '91]
+p973
+g2
+sVExcalibur (FRA) - "Prédateur" (HM, '85)
+p974
+g2
+sVOblivion - The Executioner (Godly USPM, '86)
+p975
+g2
+sVCrys - "Rhyfelwr" (NWOBHM, '81)
+p976
+g2
+sVMidnight Darkness - "Mindless" (HM, '85)
+p977
+g2
+sVSilver Wings - Eyes in the Sky
+p978
+g2
+sVCloven Hoof - Astral Rider (HM 1989)
+p979
+g2
+sVAdramelech - "Revived" (DM, '92)
+p980
+g2
+sVShiva - "Stranger Lands" (NWOBHM, '82)
+p981
+g2
+sVHorrid - Horrid Agony [DM, '92]
+p982
+g2
+sVSpectral Incursion - "Rails" (HM, '89)
+p983
+g2
+sVPagan Altar - "Judgement of the Dead" (doom, '82)
+p984
+g2
+sVADX - "Déesse du Crime" (SM, '85)
+p985
+g2
+sVLimelight - Ashes to Ashes [NWOBHM '84]
+p986
+g2
+sVMad Butcher - Night of the Wolf (HM '85)
+p987
+g2
+sVShah - "Total Devastation" (TM, '89)
+p988
+g2
+sVEmerald Steel - "Getting Free" (USPM, '90)
+p989
+g2
+sVCarbonized - "For the Security" (DM/grind, '91)
+p990
+g2
+sVSarcasm - Runaway (TM, '89)
+p991
+g2
+sVSabre - Death Sentence (TM, '87) [from Lynwood, WA]
+p992
+g2
+sVDeath SS - "Inquisitor" [HM/dM/SM, '83]
+p993
+g2
+sVRex Inferi - "Axeman in Black" (SM, '86)
+p994
+g2
+sVUnleashed - "Revenge" (DM, '90)
+p995
+g2
+sVWilczy Paj\u0105k - Memento Mori (SM, '87)
+p996
+g2
+sVDeep Purple - Bloodsucker (Proto-metal, '70)
+p997
+g2
+sVMercy - "Master of Disaster" (HM, '84)
+p998
+g2
+sVEmerald - "D-Day" (HM, '84)
+p999
+g2
+sVKraken (CAN) - "Desperate Solutions" (HM, '83)
+p1000
+g2
+sVFormel 1 - Der Edelrocker (HM, Eastern Germany, '86)
+p1001
+g2
+sVGriffin - Flight of the Griffin 1984
+p1002
+g2
+sVBrave Bomber - Go For Broke [HM, 1992]
+p1003
+g2
+sVHelstar - To Sleep, Per chance to Scream (USPM 1989)
+p1004
+g2
+sVDeliverance - "Rotten to the Core" (SM, '87)
+p1005
+g2
+sVTurbo - "Ostatni Wojowik" (TM, '87)
+p1006
+g2
+sVPuls - Bigbít je v nás
+p1007
+g2
+s.
