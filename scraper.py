@@ -1,5 +1,5 @@
 import praw
-from praw.handlers import MultiprocessHandler
+
 import json
 from requests.exceptions import HTTPError
 import re
@@ -44,13 +44,7 @@ alternativemetal - 2"""
 regex = re.compile("[A-Z|a-z|_]+")
 subreddits = re.findall(regex, subs)
 
-handler = MultiprocessHandler()
-
-r = praw.Reddit(user_agent = 'folk_metal_data_scraper', handler=handler)
-r.set_oauth_app_info(client_id='Sv9IBD6DaCujxA', client_secret = '6vKQ6IBvyXw-6b6k59NyS67gt44', redirect_uri='http://127.0.0.1:65010/authorize_callback')
-
-
-# Get as many submissions for /r/folkmetal as the API will allow
+r = praw.Reddit(user_agent = 'folk_metal_data_scraper')
 
 for sub in subreddits:
     for attempt in range(3):
@@ -59,7 +53,7 @@ for sub in subreddits:
             comments = {}
             submissions = {}
             print "Processing documents in %s..." % sub
-            for i, submission in enumerate(subreddit.get_hot(limit=10000)):  
+            for i, submission in enumerate(subreddit.get_hot(limit=1000)):  
                 try:
                     submission.replace_more_comments()
                     submission_comments = []
@@ -90,10 +84,10 @@ for sub in subreddits:
 
         print "Writing data for %s...\n\n\n" % sub
 
-        with open("C:\\users\\dakota\\reddit_scraper\\"+sub+"_posts.pkl", "w") as f:
+        with open(sub+"_posts.pkl", "w") as f:
             pickle.dump(submissions,f)
 
-        with open("C:\\users\\dakota\\reddit_scraper\\"+sub+"_comments.pkl", "w") as f:
+        with open(sub+"_comments.pkl", "w") as f:
             pickle.dump(comments,f)
 
         break
