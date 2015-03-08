@@ -9,13 +9,14 @@ import string
 
 
 # TODO -- process entire corpus, not just a single file...
-global words
+
 words = {}
-global tokenized_posts
 tokenized_posts = {}
 
 def process_tokens(post, current_post):
-
+	global words
+	global tokenized_posts
+	
 	stemmer = nltk.PorterStemmer()
 	lemmatizer = nltk.WordNetLemmatizer()
 	stopwords = nltk.corpus.stopwords.words("english")
