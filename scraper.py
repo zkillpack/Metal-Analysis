@@ -1,9 +1,7 @@
 import praw
-
-import json
-from requests.exceptions import HTTPError
 import re
 import pickle
+from requests.exceptions import HTTPError
 
 subs = """
 folkmetal - 223
@@ -27,7 +25,6 @@ Deathcore - 84
 Deathmetal - 84
 numetal - 60
 powerviolence - 59
-heavy_metal - 54
 hairmetal - 44
 powermetal - 41
 stonermetal - 29
@@ -37,14 +34,12 @@ NWOBHM - 20
 symphonicblackmetal - 18
 undergroundmetal - 17
 symphonicmetal - 12
-DLA - 12
-modernmetal - 2
 alternativemetal - 2"""
 
 regex = re.compile("[A-Z|a-z|_]+")
 subreddits = re.findall(regex, subs)
 
-r = praw.Reddit(user_agent = 'folk_metal_data_scraper')
+r = praw.Reddit(user_agent='folk_metal_data_scraper')
 
 for sub in subreddits:
     for attempt in range(3):
@@ -53,41 +48,37 @@ for sub in subreddits:
             comments = {}
             submissions = {}
             print "Processing documents in %s..." % sub
-            for i, submission in enumerate(subreddit.get_hot(limit=1000)):  
+            for i, submission in enumerate(subreddit.get_hot(limit=1000)):
                 try:
                     submission.replace_more_comments()
                     submission_comments = []
                     # Get text of each comment
                     for comment in praw.helpers.flatten_tree(submission.comments):
                         submission_comments.append(comment.body)
-                    print "Processing document %d (%d comments)" % ((i+1), len(submission_comments))
+                    print "Processing document %d (%d comments)" % ((i + 1), len(submission_comments))
 
                     try:
                         submissions[submission.title] = submission.selftext
                     except:
-                        print "\nEmpty selftext for %d!\n" % (i+1)
+                        print "\nEmpty selftext for %d!\n" % (i + 1)
 
                     try:
                         comments[submission.title] = submission_comments
                     except:
-                        print "\nEmpty comments for %d!\n" % (i+1)
-
+                        print "\nEmpty comments for %d!\n" % (i + 1)
 
                 except:
-                    print "\nError getting data for %d!\n" % (i+1)
-           
-          
+                    print "\nError getting data for %d!\n" % (i + 1)
 
         except HTTPError as e:
             print "HTTP Error %d while processing %s! Retrying..." % (e.response.status_code, sub)
 
-
         print "Writing data for %s...\n\n\n" % sub
 
-        with open(sub+"_posts.pkl", "w") as f:
-            pickle.dump(submissions,f)
+        with open("/unprocessed/" + sub + "_posts.pkl", "w") as f:
+            pickle.dump(submissions, f)
 
-        with open(sub+"_comments.pkl", "w") as f:
-            pickle.dump(comments,f)
+        with open("/unprocessed/" + sub + "_comments.pkl", "w") as f:
+            pickle.dump(comments, f)
 
         break
